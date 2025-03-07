@@ -1,0 +1,3 @@
+!pip install opencv-python==4.6.0
+!pip install tesseract-ocr
+!pip install pytesseract==0.3.9
